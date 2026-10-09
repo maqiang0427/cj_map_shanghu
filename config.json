@@ -1,0 +1,10 @@
+{
+  "amap_key": "",
+  "baidu_ak": "",
+  "tencent_key": "",
+  "page_limit": "20",
+  "delay": "1",
+  "split_depth": "2",
+  "export_dir": "",
+  "request_timeout": "15"
+}
